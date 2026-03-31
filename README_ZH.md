@@ -9,9 +9,7 @@
 [![License](https://img.shields.io/github/license/W-Okaka/ringbuffer?style=flat-square)](LICENSE)
 [![C99](https://img.shields.io/badge/标准-C99-blue?style=flat-square)](https://en.wikipedia.org/wiki/C99)
 
-[English](README.md) · [简体中文](README_ZH.md)
-
-<img src="https://count.getloli.com/@W-Okaka-ringbuffer?name=W-Okaka-ringbuffer&theme=booru-lewd" alt="访客计数" />
+[English](README.md) · [简体中文](README_ZH.md) · [日本語](README_JA.md)
 
 </div>
 
