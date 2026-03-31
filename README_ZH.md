@@ -11,7 +11,7 @@
 
 [English](README.md) · [简体中文](README_ZH.md)
 
-<img src="https://count.getloli.com/@W-Okaka-ringbuffer?name=W-Okaka-ringbuffer&theme=gelbooru" alt="访客计数" />
+<img src="https://count.getloli.com/@W-Okaka-ringbuffer?name=W-Okaka-ringbuffer&theme=booru-lewd" alt="访客计数" />
 
 </div>
 
